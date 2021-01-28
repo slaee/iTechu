@@ -1,0 +1,93 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget android-packageName="sly.tech.software" android-versionCode="50" id="sly.tech.software" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <feature name="IntentPlugin">
+        <param name="android-package" value="com.napolitano.cordova.plugin.intent.IntentPlugin" />
+    </feature>
+    <feature name="NativeSettings">
+        <param name="android-package" value="com.phonegap.plugins.nativesettings.NativeSettings" />
+    </feature>
+    <feature name="Permissions">
+        <param name="android-package" value="com.android.plugins.Permissions" />
+    </feature>
+    <feature name="Launcher">
+        <param name="android-package" value="com.hutchind.cordova.plugins.launcher.Launcher" />
+    </feature>
+    <feature name="BuildInfo">
+        <param name="android-package" value="org.apache.cordova.buildinfo.BuildInfo" />
+    </feature>
+    <feature name="Camera">
+        <param name="android-package" value="org.apache.cordova.camera.CameraLauncher" />
+    </feature>
+    <feature name="Device">
+        <param name="android-package" value="org.apache.cordova.device.Device" />
+    </feature>
+    <feature name="File">
+        <param name="android-package" value="org.apache.cordova.file.FileUtils" />
+        <param name="onload" value="true" />
+    </feature>
+    <allow-navigation href="cdvfile:*" />
+    <feature name="LocalNotification">
+        <param name="android-package" value="de.appplant.cordova.plugin.localnotification.LocalNotification" />
+    </feature>
+    <feature name="Media">
+        <param name="android-package" value="org.apache.cordova.media.AudioHandler" />
+    </feature>
+    <feature name="NavigationBar">
+        <param name="android-package" value="com.viniciusfagundes.cordova.plugin.navigationbar.NavigationBar" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="SDcard">
+        <param name="android-package" value="com.foxdebug.SDcard" />
+    </feature>
+    <feature name="StatusBar">
+        <param name="android-package" value="org.apache.cordova.statusbar.StatusBar" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="WebSocket">
+        <param name="android-package" value="com.knowledgecode.cordova.websocket.WebSocket" />
+    </feature>
+    <feature name="Whitelist">
+        <param name="android-package" value="org.apache.cordova.whitelist.WhitelistPlugin" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="Toast">
+        <param name="android-package" value="nl.xservices.plugins.Toast" />
+    </feature>
+    <feature name="Badge">
+        <param name="android-package" value="de.appplant.cordova.plugin.badge.Badge" />
+    </feature>
+    <feature name="TTS">
+        <param name="android-package" value="com.wordsbaking.cordova.tts.TTS" />
+        <param name="onload" value="true" />
+    </feature>
+    <feature name="DecryptResource">
+        <param name="android-package" value="com.crypt.cordova.DecryptResource" />
+        <param name="onload" value="true" />
+    </feature>
+    <name>iTechu</name>
+    <description>
+        iTechu App will chbange the world
+    </description>
+    <author email="nasa.sly14@gmail.com" href="http://gmail.com">
+        Sly Kint A. Bacalso
+    </author>
+    <content src="http://localhost:8080/index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-intent href="market:*" />
+    <edit-config file="AndroidManifest.xml" mode="merge" target="/manifest/application">
+        <application android:usesCleartextTraffic="true" />
+    </edit-config>
+    <preference name="loglevel" value="DEBUG" />
+    <preference name="android-build-tool" value="gradle" />
+    <preference name="DisallowOverscroll" value="true" />
+    <preference name="StatusBarBackgroundColor" value="#ffffff" />
+    <preference name="NavigationBarBackgroundColor" value="#ffffff" />
+    <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+    <preference name="BackgroundColor" value="ffffffff" />
+</widget>

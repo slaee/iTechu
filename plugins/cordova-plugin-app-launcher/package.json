@@ -1,0 +1,50 @@
+{
+  "_from": "cordova-plugin-app-launcher",
+  "_id": "cordova-plugin-app-launcher@0.4.0",
+  "_inBundle": false,
+  "_integrity": "sha512-D9xUoMUTG+K/kxm0f8uoHwWtCz+oTLKLAJBx6LZSb2PjunYJxU9OLR6t/CAqq2PAyFjv2Y/tswA7KAVls6NakQ==",
+  "_location": "/cordova-plugin-app-launcher",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-app-launcher",
+    "name": "cordova-plugin-app-launcher",
+    "escapedName": "cordova-plugin-app-launcher",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-app-launcher/-/cordova-plugin-app-launcher-0.4.0.tgz",
+  "_shasum": "3fe5ef22d843789ac4c0c5dac1badbf3b6ba5170",
+  "_spec": "cordova-plugin-app-launcher",
+  "_where": "D:\\iTechu",
+  "author": {
+    "name": "Nicholas Hutchind"
+  },
+  "bugs": {
+    "url": "https://github.com/nchutchind/cordova-plugin-app-launcher/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This plugin allows you to see if other apps are installed and launch them. On Android, you can send extras to the launched Activity and receive result data (if available), as well as retrieve a list of applications that can open a specified uri.",
+  "homepage": "https://github.com/nchutchind/cordova-plugin-app-launcher#readme",
+  "keywords": [
+    "cordova",
+    "launcher",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-app-launcher",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nchutchind/cordova-plugin-app-launcher.git"
+  },
+  "version": "0.4.0"
+}

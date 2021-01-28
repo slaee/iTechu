@@ -1,0 +1,78 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "com.napolitano.cordova.plugin.intent": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-open-native-settings": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-android-permissions": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-app-launcher": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-buildinfo": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-navigationbar-color": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-sdcard": {
+      "ANDROID_SUPPORT_VERSION": "28.+",
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-tts": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-webpack": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-websocket": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-x-toast": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-proguard": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-crypt-file-android": {
+      "PACKAGE_NAME": "sly.tech.software"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "sly.tech.software"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "sly.tech.software"
+    }
+  }
+}

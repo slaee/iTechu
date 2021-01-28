@@ -1,0 +1,47 @@
+{
+  "_from": "cordova-plugin-crypt-file-android",
+  "_id": "cordova-plugin-crypt-file-android@1.4.2",
+  "_inBundle": false,
+  "_integrity": "sha512-Bf73VuzMp9YiQ6Bu7MTQ2tyJnXr/lXzMv3Y7xqczezhG+p/csjKHDN4MeQxkwvy/Nig7kHQGp1XzYD71I5q1ew==",
+  "_location": "/cordova-plugin-crypt-file-android",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-crypt-file-android",
+    "name": "cordova-plugin-crypt-file-android",
+    "escapedName": "cordova-plugin-crypt-file-android",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-crypt-file-android/-/cordova-plugin-crypt-file-android-1.4.2.tgz",
+  "_shasum": "9d2ed130c4cb754e973f79cb2d1715e30c48ba03",
+  "_spec": "cordova-plugin-crypt-file-android",
+  "_where": "D:\\iTechu",
+  "author": {
+    "name": "enricodente"
+  },
+  "bugs": {
+    "url": "https://github.com/enricodente/cordova-plugin-crypt-file-android/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "This plugin to encrypt/decrypt the source files.",
+  "homepage": "https://github.com/enricodente/cordova-plugin-crypt-file-android#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache version 2.0",
+  "name": "cordova-plugin-crypt-file-android",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enricodente/cordova-plugin-crypt-file-android.git"
+  },
+  "version": "1.4.2"
+}
