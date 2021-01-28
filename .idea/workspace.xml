@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="debug" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f5adf34a-d64d-4a56-9f15-473902f0c059" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
+  <component name="ProjectId" id="1mk2Cf8gd5rkxxIU8FntAAhoPj7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle --offline" />
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="D:/iTechu" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--offline" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.D:/iTechu" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5adf34a-d64d-4a56-9f15-473902f0c059" name="Default Changelist" comment="" />
+      <created>1610023141408</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610023141408</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="576" y="293" key="#Notifications" timestamp="1610023272964">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="576" y="293" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1610023272964" />
+    <state x="136" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610025367796">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="136" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1610025367796" />
+    <state x="100" y="102" width="1165" height="538" key="AVDManager" timestamp="1611533925778">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="100" y="102" width="1165" height="538" key="AVDManager/0.0.1366.738@0.0.1366.738" timestamp="1611533925778" />
+    <state x="462" y="112" key="FileChooserDialogImpl" timestamp="1610335231338">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="462" y="112" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1610335231338" />
+    <state width="1305" height="385" key="GridCell.Tab.0.bottom" timestamp="1610430817793">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1305" height="385" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1610430817793" />
+    <state width="1305" height="385" key="GridCell.Tab.0.center" timestamp="1610430817792">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1305" height="385" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1610430817792" />
+    <state width="1305" height="385" key="GridCell.Tab.0.left" timestamp="1610430817790">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1305" height="385" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1610430817790" />
+    <state width="1305" height="385" key="GridCell.Tab.0.right" timestamp="1610430817792">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1305" height="385" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1610430817792" />
+    <state x="184" y="13" key="SettingsEditor" timestamp="1610428679870">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1610428679870" />
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup" timestamp="1610025490809">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" width="672" height="677" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1610025490809" />
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1610176726461">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1610176726461" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/iTechu$D__iTechu.ic" NAME="$PROJECT_DIR$/../iTechu Coverage Results" MODIFIED="1610335131541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

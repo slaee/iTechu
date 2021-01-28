@@ -1,0 +1,80 @@
+@import './../styles/notification';
+$loading-svg: url(./../../res/logo.svg);
+
+body.loading {
+    position: relative;
+}
+
+body.loading.splash::before {
+    content: "iTechu";
+    background-image: $loading-svg;
+    background-position: 50% 45%;
+    background-repeat: no-repeat;
+    background-size: 80px;
+    background-color: #ffffff;
+    position: fixed;
+    border-radius: 0;
+    top: 0;
+    right: 0;
+    height: 100vh;
+    width: 100vw;
+    z-index: 999999;
+    text-transform: none;
+    font-family: "Lobster Two";
+    text-align: center;
+    line-height: 180vh;
+    color: #000000;
+    font-size: 1.5rem;
+    font-weight: bold;
+    box-shadow: 1px 1px 5px #606060, -1px -1px 5px #918282;
+}
+
+body.animate.loading.splash::before{
+    animation: fadeout 500ms;
+    animation-delay: 500ms;
+}
+
+
+
+
+body.loading.splash::after {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+    content: attr(alert-message);
+    margin: 15px auto;
+    z-index: 999999;
+    font-size: 1rem;
+    width: 90vw;
+    text-align: center;
+    color: #000000;
+}
+
+body.loading.splash::after.notification{
+    position: absolute;
+    height: 20px;
+    bottom: 0;
+    background-color: #000000;
+    width: 100vw;
+    padding: 20px;
+    z-index: 999999;
+}
+
+@-webkit-keyframes fadeout{
+    from {
+        opacity: 1;
+    }
+    to {
+        opacity: 0;
+    }
+}
+
+@keyframes fadeout{
+    from {
+        opacity: 1;
+    }
+    to{
+        opacity: 0;
+    }
+}
