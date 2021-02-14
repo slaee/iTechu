@@ -4,7 +4,7 @@ import about from './about.hbs';
 import mustache from 'mustache';
 import tag from "html-tag-js"
 
-import list from '../../app-worker/list';
+import list from '../../controllers/list';
 
 export const AboutInclude = {
     initialize: function() {

@@ -41,7 +41,7 @@ export default class App {
                 });
             }
         });
-        
+
         cordova.plugins.notification.local.hasPermission(function (granted) {
             if (granted == false) {
                 cordova.plugins.notification.local.requestPermission(function (
@@ -59,7 +59,7 @@ export default class App {
         window.splashscreen = document.getElementById("splashscreen");
 
         /// SplashScreen
-        if (!BuildInfo.debug) {
+        if (BuildInfo.debug) {
             splashscreen.classList.add("animate");
             setTimeout(function () {
                 splashscreen.classList.remove("loading", "splash");
@@ -93,7 +93,7 @@ export default class App {
     /**
      * @type {EventListener} "offline"
      */
-    static #onOfflince(){
+    static #onOffline(){
         // handle no internet connection event
     }
 

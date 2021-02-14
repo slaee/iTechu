@@ -2,7 +2,7 @@
 <widget android-versionCode="50" id="sly.tech.software" android-packageName="sly.tech.software" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>iTechu</name>
     <description>
-        iTechu App will chbange the world
+        iTechu App will change the world
     </description>
     <author email="nasa.sly14@gmail.com" href="http://gmail.com">
         Sly Kint A. Bacalso
