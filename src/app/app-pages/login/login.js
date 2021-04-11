@@ -22,6 +22,6 @@ export const LoginPage = {
     },
 
     render: function(){
-
+        
     }
 }

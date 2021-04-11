@@ -75,8 +75,19 @@
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-x-toast/www/Toast.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-x-toast/www/Toast.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/res/icons/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/res/icons/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/java/com/crypt/cordova/DecryptResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/java/com/crypt/cordova/DecryptResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-pages/main/main-page.include.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-pages/main/main-page.include.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/build/about.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/build/about.dev.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/build/login.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/build/login.dev.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/build/main.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/build/main.dev.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/css/build/mainpage.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/build/mainpage.dev.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/build/about.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/about.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/build/login.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/login.dev.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/js/build/main.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/main.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/build/mainpage.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/mainpage.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/build/runtime~main.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/runtime~main.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/build/splashscreen.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/splashscreen.dev.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/js/build/vendors~about~login~mainpage.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/vendors~about~login~mainpage.dev.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,9 +160,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="136" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1610025367796" />
-    <state x="100" y="102" width="1165" height="538" key="AVDManager" timestamp="1612523795636">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="1932" y="146" width="1122" height="766" key="AVDManager" timestamp="1616371814446">
+      <screen x="1366" y="0" width="1920" height="1050" />
     </state>
+    <state x="1932" y="146" width="1122" height="766" key="AVDManager/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1616371814446" />
     <state x="100" y="102" width="1165" height="538" key="AVDManager/0.0.1366.738@0.0.1366.738" timestamp="1612523795636" />
     <state x="462" y="112" key="FileChooserDialogImpl" timestamp="1610335231338">
       <screen x="0" y="0" width="1366" height="738" />

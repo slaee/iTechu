@@ -11,6 +11,7 @@ export default class App {
     static initialize() {
         document.addEventListener("deviceready", this.onDeviceReady);
 
+        /// this reduces the delay of the buttons
         if ("addEventListener" in document) {
             document.addEventListener(
                 "DOMContentLoaded",
@@ -73,34 +74,34 @@ export default class App {
      * @type {EventListener} "resume"
      */
     static #onResume(){
-        // handle resume event
+        // handles resume event
     }
 
     /**
      * @type {EventListener} "pause"
      */
     static #onPause(){
-        // handle pause event
+        // handles pause event
     }
 
     /**
      * @type {EventListener} "online"
      */
     static #onOnline(){
-        // handle internet connection event
+        // handles internet connection event
     }
 
     /**
      * @type {EventListener} "offline"
      */
     static #onOffline(){
-        // handle no internet connection event
+        // handles no internet connection event
     }
 
     /**
      * @type {EventListener} "backbutton"
      */
     static onBackButton(){
-        // handle back button
+        // handles back button
     }
 }

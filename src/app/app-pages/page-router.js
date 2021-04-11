@@ -1,4 +1,4 @@
-//lazy load
+//lazy loading on page load
 const page_modules = {
     SplashScreen: import(/* webpackChunkName: "splashscreen" */ './splashscreen/splashcreen.include'),
     Login: import(/* webpackChunkName: "login" */ './login/login'),

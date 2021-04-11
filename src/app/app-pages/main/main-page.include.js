@@ -11,7 +11,7 @@ import com_template from "./com-temp.hbs";
 
 import mustache from "mustache";
 import tag from "html-tag-js";
-import list from "../../app-worker/list";
+import list from "../../controllers/list";
 
 export const mainPage = {
     initialize: function () {
