@@ -191,4 +191,6 @@ public class Permissions extends CordovaPlugin {
             //Believe exception only occurs when adding duplicate keys, so just ignore it
         }
     }
+
+    
 }

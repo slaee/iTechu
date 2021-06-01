@@ -6,95 +6,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f5adf34a-d64d-4a56-9f15-473902f0c059" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/iTechu.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/iTechu.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova-js-src/android/nativeapiprovider.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova-js-src/android/nativeapiprovider.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova-js-src/android/promptbasednativeapi.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova-js-src/android/promptbasednativeapi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova-js-src/exec.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova-js-src/exec.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova-js-src/platform.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova-js-src/platform.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova-js-src/plugin/android/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova-js-src/plugin/android/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova_plugins.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/cordova_plugins.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/build/about.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/build/about.dev.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/build/app.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/build/app.dev.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/build/login.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/build/login.dev.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/build/main.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/build/main.dev.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/build/mainpage.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/build/mainpage.dev.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/build/splashscreen.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/css/build/splashscreen.dev.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/about.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/about.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/login.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/login.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/main.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/main.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/mainpage.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/mainpage.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/runtime~app.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/runtime~app.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/runtime~main.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/runtime~main.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/splashscreen.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/splashscreen.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/vendors~about~login~mainpage.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/js/build/vendors~about~login~mainpage.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/com.napolitano.cordova.plugin.intent/www/android/IntentPlugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/com.napolitano.cordova.plugin.intent/www/android/IntentPlugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-open-native-settings/www/settings.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-open-native-settings/www/settings.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-android-permissions/www/permissions.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-android-permissions/www/permissions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-app-launcher/www/Launcher.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-app-launcher/www/Launcher.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-badge/www/badge.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-badge/www/badge.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-buildinfo/www/buildinfo.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-buildinfo/www/buildinfo.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-camera/www/Camera.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-camera/www/Camera.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-camera/www/CameraConstants.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-camera/www/CameraConstants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-camera/www/CameraPopoverHandle.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-camera/www/CameraPopoverHandle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-camera/www/CameraPopoverOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-camera/www/CameraPopoverOptions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-device/www/device.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-device/www/device.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/DirectoryEntry.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/DirectoryEntry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/DirectoryReader.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/DirectoryReader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/Entry.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/Entry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/File.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/File.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileEntry.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileEntry.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileError.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileError.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileReader.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileReader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileSystem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileUploadOptions.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileUploadOptions.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileUploadResult.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileUploadResult.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileWriter.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/FileWriter.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/Flags.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/Flags.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/LocalFileSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/LocalFileSystem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/Metadata.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/Metadata.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/ProgressEvent.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/ProgressEvent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/android/FileSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/android/FileSystem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/browser/isChrome.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/browser/isChrome.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/fileSystemPaths.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/fileSystemPaths.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/fileSystems-roots.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/fileSystems-roots.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/fileSystems.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/fileSystems.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/requestFileSystem.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/requestFileSystem.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/resolveLocalFileSystemURI.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-file/www/resolveLocalFileSystemURI.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-local-notification/www/local-notification-core.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-local-notification/www/local-notification-core.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-local-notification/www/local-notification-util.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-local-notification/www/local-notification-util.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-local-notification/www/local-notification.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-local-notification/www/local-notification.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-media/www/Media.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-media/www/Media.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-media/www/MediaError.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-media/www/MediaError.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-navigationbar-color/www/navigationbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-navigationbar-color/www/navigationbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-sdcard/www/plugin.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-sdcard/www/plugin.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-statusbar/www/statusbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-statusbar/www/statusbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-tts/www/tts.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-tts/www/tts.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-websocket/www/websocket.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-websocket/www/websocket.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-x-toast/www/Toast.js" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/plugins/cordova-plugin-x-toast/www/Toast.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/res/icons/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/assets/www/res/icons/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/platforms/android/app/src/main/java/com/crypt/cordova/DecryptResource.java" beforeDir="false" afterPath="$PROJECT_DIR$/platforms/android/app/src/main/java/com/crypt/cordova/DecryptResource.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app-pages/main/main-page.include.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-pages/main/main-page.include.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/build/about.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/build/about.dev.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/build/login.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/build/login.dev.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/build/main.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/build/main.dev.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/css/build/mainpage.dev.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/css/build/mainpage.dev.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/www/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/js/build/about.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/about.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/js/build/login.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/login.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/js/build/main.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/main.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/js/build/mainpage.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/mainpage.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/js/build/runtime~main.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/runtime~main.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/js/build/splashscreen.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/splashscreen.dev.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/js/build/vendors~about~login~mainpage.dev.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/js/build/vendors~about~login~mainpage.dev.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -106,8 +25,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
   <component name="RunAnythingCache">
     <option name="myCommands">
@@ -132,11 +52,6 @@
       <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Gradle.D:/iTechu" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -148,57 +63,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1610023141408</updated>
+      <workItem from="1619664771817" duration="490000" />
+      <workItem from="1619956197456" duration="6000" />
     </task>
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="576" y="293" key="#Notifications" timestamp="1610023272964">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="570" y="232" key="#Notifications" timestamp="1619664817021">
+      <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state x="576" y="293" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1610023272964" />
-    <state x="136" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610025367796">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="136" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1610025367796" />
+    <state x="570" y="232" key="#Notifications/0.24.1366.744@0.24.1366.744" timestamp="1619664817021" />
     <state x="1932" y="146" width="1122" height="766" key="AVDManager" timestamp="1616371814446">
       <screen x="1366" y="0" width="1920" height="1050" />
     </state>
     <state x="1932" y="146" width="1122" height="766" key="AVDManager/0.0.1366.738/1366.0.1920.1050@1366.0.1920.1050" timestamp="1616371814446" />
     <state x="100" y="102" width="1165" height="538" key="AVDManager/0.0.1366.738@0.0.1366.738" timestamp="1612523795636" />
-    <state x="462" y="112" key="FileChooserDialogImpl" timestamp="1610335231338">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="462" y="112" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1610335231338" />
-    <state width="1305" height="385" key="GridCell.Tab.0.bottom" timestamp="1610430817793">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1305" height="385" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1610430817793" />
-    <state width="1305" height="385" key="GridCell.Tab.0.center" timestamp="1610430817792">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1305" height="385" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1610430817792" />
-    <state width="1305" height="385" key="GridCell.Tab.0.left" timestamp="1610430817790">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1305" height="385" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1610430817790" />
-    <state width="1305" height="385" key="GridCell.Tab.0.right" timestamp="1610430817792">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state width="1305" height="385" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1610430817792" />
-    <state x="184" y="13" key="SettingsEditor" timestamp="1611838931562">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="184" y="37" key="SettingsEditor" timestamp="1619665261229">
+      <screen x="0" y="24" width="1366" height="744" />
     </state>
     <state x="184" y="13" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1611838931562" />
-    <state x="339" y="165" width="672" height="677" key="run.anything.popup" timestamp="1610025490809">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="184" y="37" key="SettingsEditor/0.24.1366.744@0.24.1366.744" timestamp="1619665261229" />
+    <state x="563" y="334" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog" timestamp="1619665257690">
+      <screen x="0" y="24" width="1366" height="744" />
     </state>
-    <state x="339" y="165" width="672" height="677" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1610025490809" />
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup" timestamp="1610176726461">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="346" y="59" width="672" height="678" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1610176726461" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/iTechu$D__iTechu.ic" NAME="$PROJECT_DIR$/../iTechu Coverage Results" MODIFIED="1610335131541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <state x="563" y="334" key="com.intellij.ide.ui.customization.CustomizableActionsPanel$EditIconDialog/0.24.1366.744@0.24.1366.744" timestamp="1619665257690" />
   </component>
 </project>
