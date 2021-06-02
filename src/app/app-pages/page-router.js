@@ -3,7 +3,7 @@ const page_modules = {
     SplashScreen: import(/* webpackChunkName: "splashscreen" */ './splashscreen/splashcreen.include'),
     Login: import(/* webpackChunkName: "login" */ './login/login'),
     Home:  import( /* webpackChunkName: "mainpage" */ './main/main-page.include'),
-    About: import( /* webpackChunkName: "about" */ './about/about.include')
+    About: import( /*8 webpackChunkName: "about" */ './about/about.include')
 }
 
 export default class Page{
