@@ -1,2 +1,2 @@
 # iTechu
-Best application Ever
+this App will migrate to React Native soon.
